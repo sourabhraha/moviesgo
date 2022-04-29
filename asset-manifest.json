@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/moviesgo/static/css/main.0d9fb4b9.chunk.css",
+    "main.js": "/moviesgo/static/js/main.843da0ec.chunk.js",
+    "main.js.map": "/moviesgo/static/js/main.843da0ec.chunk.js.map",
+    "runtime-main.js": "/moviesgo/static/js/runtime-main.122e8053.js",
+    "runtime-main.js.map": "/moviesgo/static/js/runtime-main.122e8053.js.map",
+    "static/js/2.99d6046f.chunk.js": "/moviesgo/static/js/2.99d6046f.chunk.js",
+    "static/js/2.99d6046f.chunk.js.map": "/moviesgo/static/js/2.99d6046f.chunk.js.map",
+    "index.html": "/moviesgo/index.html",
+    "static/css/main.0d9fb4b9.chunk.css.map": "/moviesgo/static/css/main.0d9fb4b9.chunk.css.map",
+    "static/js/2.99d6046f.chunk.js.LICENSE.txt": "/moviesgo/static/js/2.99d6046f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.122e8053.js",
+    "static/js/2.99d6046f.chunk.js",
+    "static/css/main.0d9fb4b9.chunk.css",
+    "static/js/main.843da0ec.chunk.js"
+  ]
+}
